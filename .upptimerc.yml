@@ -104,7 +104,7 @@ status-website:
   cname: uptime.rejuvicahealth.com
   # baseUrl: /your-repo-name
   logoUrl: https://rejuvicahealth.com/rejuvica-uptime-w.svg
-  name: Uptime
+  name: Website Monitoring
   favicon: https://rejuvicahealth.com/leaf-uptime.png
   faviconSvg: https://rejuvicahealth.com/leaf-uptime.svg
   # introTitle: "Monitoring all **Rejuvica** sites."
