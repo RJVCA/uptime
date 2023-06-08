@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Rejuvica Shopify
     url: https://www.rejuvica.com/
+  - name: Dermaced Shopify
+    url: https://dermaced.com/
   - name: Active Adrenal
     url: https://activeadrenal.com/
   - name: Go Active Ashwagandha
@@ -43,8 +45,8 @@ sites:
     url: https://activeiodine.com/
   - name: Active Kava Kava
     url: https://activekavakava.com/
-  - name: Cleanse Drops
-    url: http://cleansedrops.com/
+  - name: Cleanse Drops Kidney
+    url: http://cleansedropskidney.com/
   - name: Vitaliver
     url: https://vitaliver.com/
   - name: Bright Lungs
@@ -114,7 +116,7 @@ status-website:
    #   href: https://github.com/$OWNER/$REPO
  
 i18n:
- footer:  
+ footer: Rejuvica Health
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
