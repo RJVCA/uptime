@@ -101,8 +101,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.rejuvicahealth.com
   # baseUrl: /your-repo-name
-  logoUrl: https://rejuvicahealth.com/leaf-uptime.svg
+  logoUrl: https://rejuvicahealth.com/rejuvica-uptime-w.svg
   name: Uptime
+  favicon: https://rejuvicahealth.com/leaf-uptime.png
+  faviconSvg: https://rejuvicahealth.com/leaf-uptime.svg
   # introTitle: "Monitoring all **Rejuvica** sites."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   #navbar:
@@ -110,6 +112,9 @@ status-website:
    #   href: /
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
+ 
+i18n:
+ footer:  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
