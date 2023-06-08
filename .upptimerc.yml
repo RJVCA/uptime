@@ -4,97 +4,97 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Rejuvica Shopify
-    url: https://www.rejuvica.com
-  -	name: Active Adrenal
-  	url: https://activeadrenal.com/
-  -	name: Go Active Ashwagandha
-  	url: https://goactiveashwagandha.com/
-  -	name: Redness Redux
-  	url: https://rednessredux.com/
-  -	name: Bladder Pro
-  	url: https://bladderpro.com/
-  -	name: BloatX
-  	url: https://bloatx.com/
-  -	name: Metaven
-  	url: https://metaven.com/
-  -	name: Zenapinir
-  	url: https://zenapinir.com/
-  -	name: Deep Therapy Cream
-  	url: https://deeptherapycream.com/
-  -	name: Digestapro
-  	url: https://digestapro.com/
-  -	name: Ancient Pet Liver
-  	url: https://ancientpetliver.com/
-  -	name: Activated Female
-  	url: https://activatedfemale.com/
-  -	name: Cleanse Drops
-  	url: https://cleansedrops.com/
-  -	name: Go Active Ginseng
-  	url: https://goactiveginseng.com/
-  -	name: HSN System
-  	url: https://hsnsystem.com/
-  -	name: Cardiovance
-  	url: https://cardiovance.com/
-  -	name: Munomax
-  	url: https://munomax.com/
-  -	name: Intesticlear
-  	url: https://intesticlear.com/
-  -	name: Active Iodine
-  	url: https://activeiodine.com/
-  -	name: Active Kava Kava
-  	url: https://activekavakava.com/
-  -	name: Cleanse Drops
-  	url: http://cleansedrops.com/
-  -	name: Vitaliver
-  	url: https://vitaliver.com/
-  -	name: Bright Lungs
-  	url: https://brightlungs.com/
-  -	name: Go Active Maca
-  	url: https://goactivemaca.com/
-  -	name: Activated Male
-  	url: http://activatedmale.com/
-  -	name: Nerve Factor
-  	url: https://nervefactor.com/
-  -	name: Natal Nourish
-  	url: https://natalnourish.com/
-  -	name: Total Soothe
-  	url: https://totalsoothe.com/
-  -	name: Ocutonic
-  	url: https://ocutonic.com/
-  -	name: Active Olive Leaf
-  	url: https://activeoliveleaf.com/
-  -	name: OraSpark
-  	url: https://oraspark.com/
-  -	name: Active Polygala
-  	url: https://activepolygala.com/
-  -	name: Active Rhodiola
-  	url: https://activerhodiola.com/
-  -	name: Better Scalp
-  	url: https://betterscalp.com/
-  -	name: Restavin
-  	url: https://restavin.com/
-  -	name: Nocturest
-  	url: https://nocturest.com/
-  -	name: Nervestra
-  	url: https://nervestra.com/
-  -	name: Prostavec
-  	url: https://prostavec.com/
-  -	name: Thyrobin
-  	url: https://thyrobin.com/
-  -	name: Uricel
-  	url: https://uricel.com/
-  -	name: Balanced Femme
-  	url: https://balancedfemme.com/
-  -	name: Cherry Force
-  	url: https://cherryforce.com/
-  -	name: Better Nail
-  	url: https://betternail.com/
-  -	name: Active Turmeric
-  	url: https://activeturmeric.com/
-  -	name: Varicol
-  	url: https://varicol.com/
-  -	name: Hydrocin
-  	url: https://hydrocin.com/
+    url: https://www.rejuvica.com/
+  - name: Active Adrenal
+    url: https://activeadrenal.com/
+  - name: Go Active Ashwagandha
+    url: https://goactiveashwagandha.com/
+  - name: Redness Redux
+    url: https://rednessredux.com/
+  - name: Bladder Pro
+    url: https://bladderpro.com/
+  - name: BloatX
+    url: https://bloatx.com/
+  - name: Metaven
+    url: https://metaven.com/
+  - name: Zenapinir
+    url: https://zenapinir.com/
+  - name: Deep Therapy Cream
+    url: https://deeptherapycream.com/
+  - name: Digestapro
+    url: https://digestapro.com/
+  - name: Ancient Pet Liver
+    url: https://ancientpetliver.com/
+  - name: Activated Female
+    url: https://activatedfemale.com/
+  - name: Cleanse Drops
+    url: https://cleansedrops.com/
+  - name: Go Active Ginseng
+    url: https://goactiveginseng.com/
+  - name: HSN System
+    url: https://hsnsystem.com/
+  - name: Cardiovance
+    url: https://cardiovance.com/
+  - name: Munomax
+    url: https://munomax.com/
+  - name: Intesticlear
+    url: https://intesticlear.com/
+  - name: Active Iodine
+    url: https://activeiodine.com/
+  - name: Active Kava Kava
+    url: https://activekavakava.com/
+  - name: Cleanse Drops
+    url: http://cleansedrops.com/
+  - name: Vitaliver
+    url: https://vitaliver.com/
+  - name: Bright Lungs
+    url: https://brightlungs.com/
+  - name: Go Active Maca
+    url: https://goactivemaca.com/
+  - name: Activated Male
+    url: http://activatedmale.com/
+  - name: Nerve Factor
+    url: https://nervefactor.com/
+  - name: Natal Nourish
+    url: https://natalnourish.com/
+  - name: Total Soothe
+    url: https://totalsoothe.com/
+  - name: Ocutonic
+    url: https://ocutonic.com/
+  - name: Active Olive Leaf
+    url: https://activeoliveleaf.com/
+  - name: OraSpark
+    url: https://oraspark.com/
+  - name: Active Polygala
+    url: https://activepolygala.com/
+  - name: Active Rhodiola
+    url: https://activerhodiola.com/
+  - name: Better Scalp
+    url: https://betterscalp.com/
+  - name: Restavin
+    url: https://restavin.com/
+  - name: Nocturest
+    url: https://nocturest.com/
+  - name: Nervestra
+    url: https://nervestra.com/
+  - name: Prostavec
+    url: https://prostavec.com/
+  - name: Thyrobin
+    url: https://thyrobin.com/
+  - name: Uricel
+    url: https://uricel.com/
+  - name: Balanced Femme
+    url: https://balancedfemme.com/
+  - name: Cherry Force
+    url: https://cherryforce.com/
+  - name: Better Nail
+    url: https://betternail.com/
+  - name: Active Turmeric
+    url: https://activeturmeric.com/
+  - name: Varicol
+    url: https://varicol.com/
+  - name: Hydrocin
+    url: https://hydrocin.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
