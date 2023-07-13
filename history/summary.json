@@ -4,9 +4,9 @@
     "url": "https://www.rejuvica.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rejuvica.com.ico",
     "slug": "rejuvica-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 459,
     "timeMonth": 584,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "Dermaced Shopify",
     "url": "https://dermaced.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dermaced.com.ico",
     "slug": "dermaced-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 177,
     "timeMonth": 165,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "Active Adrenal",
@@ -383,15 +387,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "97.80%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.88%",
     "time": 546,
-    "timeDay": 364,
-    "timeWeek": 425,
-    "timeMonth": 577,
+    "timeDay": 441,
+    "timeWeek": 433,
+    "timeMonth": 578,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2023-07-10": 27,
@@ -471,15 +475,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.89%",
     "time": 558,
-    "timeDay": 386,
-    "timeWeek": 435,
-    "timeMonth": 595,
+    "timeDay": 507,
+    "timeWeek": 422,
+    "timeMonth": 597,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2023-07-10": 26,
