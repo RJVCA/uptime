@@ -40,10 +40,10 @@
     "url": "https://activeadrenal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activeadrenal.com.ico",
     "slug": "active-adrenal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
@@ -51,17 +51,19 @@
     "timeWeek": 362,
     "timeMonth": 313,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 2
+    }
   },
   {
     "name": "Go Active Ashwagandha",
     "url": "https://goactiveashwagandha.com/",
     "icon": "https://icons.duckduckgo.com/ip3/goactiveashwagandha.com.ico",
     "slug": "go-active-ashwagandha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
@@ -69,17 +71,19 @@
     "timeWeek": 340,
     "timeMonth": 303,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Redness Redux",
     "url": "https://rednessredux.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rednessredux.com.ico",
     "slug": "redness-redux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
@@ -87,17 +91,19 @@
     "timeWeek": 310,
     "timeMonth": 290,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Bladder Pro",
     "url": "https://bladderpro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bladderpro.com.ico",
     "slug": "bladder-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
@@ -105,17 +111,19 @@
     "timeWeek": 338,
     "timeMonth": 308,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "BloatX",
     "url": "https://bloatx.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bloatx.com.ico",
     "slug": "bloat-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
@@ -123,17 +131,19 @@
     "timeWeek": 318,
     "timeMonth": 303,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Metaven",
     "url": "https://metaven.com/",
     "icon": "https://icons.duckduckgo.com/ip3/metaven.com.ico",
     "slug": "metaven",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
@@ -141,17 +151,19 @@
     "timeWeek": 260,
     "timeMonth": 268,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Zenapin-IR",
     "url": "https://zenapinir.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zenapinir.com.ico",
     "slug": "zenapin-ir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
@@ -159,17 +171,19 @@
     "timeWeek": 313,
     "timeMonth": 299,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Deep Therapy Cream",
     "url": "https://deeptherapycream.com/",
     "icon": "https://icons.duckduckgo.com/ip3/deeptherapycream.com.ico",
     "slug": "deep-therapy-cream",
-    "status": "up",
+    "status": "down",
     "uptime": "79.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "34.44%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "34.55%",
     "uptimeMonth": "57.69%",
     "uptimeYear": "79.60%",
     "time": 338,
@@ -178,6 +192,7 @@
     "timeMonth": 257,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2023-08-10": 1,
       "2023-08-07": 1061,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -199,10 +214,10 @@
     "url": "https://digestapro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/digestapro.com.ico",
     "slug": "digesta-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
@@ -210,17 +225,19 @@
     "timeWeek": 315,
     "timeMonth": 294,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Ancient Pet Liver",
     "url": "https://ancientpetliver.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ancientpetliver.com.ico",
     "slug": "ancient-pet-liver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
@@ -228,17 +245,19 @@
     "timeWeek": 291,
     "timeMonth": 278,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Activated Female",
     "url": "https://activatedfemale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedfemale.com.ico",
     "slug": "activated-female",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
@@ -246,16 +265,18 @@
     "timeWeek": 355,
     "timeMonth": 319,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 1
+    }
   },
   {
     "name": "Cleanse Drops",
     "url": "https://cleansedrops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedrops.com.ico",
     "slug": "cleanse-drops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -264,16 +285,18 @@
     "timeWeek": 349,
     "timeMonth": 309,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 0
+    }
   },
   {
     "name": "Go Active Ginseng",
     "url": "https://goactiveginseng.com/",
     "icon": "https://icons.duckduckgo.com/ip3/goactiveginseng.com.ico",
     "slug": "go-active-ginseng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -282,16 +305,18 @@
     "timeWeek": 281,
     "timeMonth": 277,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 0
+    }
   },
   {
     "name": "HSN System",
     "url": "https://hsnsystem.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hsnsystem.com.ico",
     "slug": "hsn-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -300,16 +325,18 @@
     "timeWeek": 253,
     "timeMonth": 267,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 0
+    }
   },
   {
     "name": "CardioVance",
     "url": "https://cardiovance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cardiovance.com.ico",
     "slug": "cardio-vance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -318,16 +345,18 @@
     "timeWeek": 278,
     "timeMonth": 284,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 0
+    }
   },
   {
     "name": "MunoMax",
     "url": "https://munomax.com/",
     "icon": "https://icons.duckduckgo.com/ip3/munomax.com.ico",
     "slug": "muno-max",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,7 +365,9 @@
     "timeWeek": 268,
     "timeMonth": 278,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-10": 0
+    }
   },
   {
     "name": "IntestiClear",
@@ -397,19 +428,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "down",
-    "uptime": "98.30%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.30%",
-    "time": 507,
-    "timeDay": 380,
-    "timeWeek": 472,
-    "timeMonth": 446,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.28%",
+    "time": 508,
+    "timeDay": 424,
+    "timeWeek": 480,
+    "timeMonth": 448,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-08-10": 2,
+      "2023-08-10": 13,
       "2023-08-09": 26,
       "2023-08-08": 25,
       "2023-08-06": 24,
@@ -496,19 +527,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.29%",
     "time": 518,
-    "timeDay": 383,
-    "timeWeek": 499,
-    "timeMonth": 450,
+    "timeDay": 422,
+    "timeWeek": 503,
+    "timeMonth": 452,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-08-10": 1,
+      "2023-08-10": 12,
       "2023-08-09": 26,
       "2023-08-08": 25,
       "2023-08-06": 24,
