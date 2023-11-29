@@ -140,10 +140,10 @@
     "url": "https://metaven.com/",
     "icon": "https://icons.duckduckgo.com/ip3/metaven.com.ico",
     "slug": "metaven",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
@@ -151,7 +151,9 @@
     "timeWeek": 330,
     "timeMonth": 271,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 1
+    }
   },
   {
     "name": "Zenapin-IR",
@@ -415,7 +417,7 @@
     "uptimeYear": "98.02%",
     "time": 437,
     "timeDay": 470,
-    "timeWeek": 451,
+    "timeWeek": 444,
     "timeMonth": 405,
     "timeYear": 437,
     "dailyMinutesDown": {
@@ -554,8 +556,8 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "97.94%",
     "time": 442,
-    "timeDay": 412,
-    "timeWeek": 441,
+    "timeDay": 453,
+    "timeWeek": 433,
     "timeMonth": 401,
     "timeYear": 442,
     "dailyMinutesDown": {
