@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dermaced.com.ico",
     "slug": "dermaced-shopify",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 459,
     "timeDay": 693,
     "timeWeek": 573,
@@ -466,11 +466,11 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.45%",
     "time": 420,
     "timeDay": 288,
@@ -478,6 +478,7 @@
     "timeMonth": 383,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2024-04-11": 2,
       "2024-04-09": 81,
       "2024-04-04": 38,
       "2024-03-28": 19,
@@ -549,8 +550,7 @@
       "2023-11-23": 36,
       "2023-11-21": 30,
       "2023-11-19": 25,
-      "2023-11-17": 18,
-      "2023-11-11": 17
+      "2023-11-17": 18
     }
   },
   {
@@ -625,10 +625,10 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.46%",
     "time": 436,
@@ -637,6 +637,7 @@
     "timeMonth": 383,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2024-04-11": 1,
       "2024-04-09": 79,
       "2024-04-04": 37,
       "2024-03-28": 18,
@@ -707,8 +708,7 @@
       "2023-11-21": 29,
       "2023-11-20": 30,
       "2023-11-19": 25,
-      "2023-11-17": 18,
-      "2023-11-11": 17
+      "2023-11-17": 18
     }
   },
   {
