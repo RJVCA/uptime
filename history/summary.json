@@ -25,9 +25,9 @@
     "url": "https://dermaced.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dermaced.com.ico",
     "slug": "dermaced-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.10%",
@@ -37,6 +37,7 @@
     "timeMonth": 569,
     "timeYear": 460,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-16": 37,
       "2024-03-26": 37,
       "2024-03-08": 58,
@@ -53,9 +54,9 @@
     "url": "https://activeadrenal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activeadrenal.com.ico",
     "slug": "active-adrenal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
@@ -65,6 +66,7 @@
     "timeMonth": 250,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-16": 36,
       "2024-03-26": 37,
       "2024-03-08": 57
@@ -75,9 +77,9 @@
     "url": "https://goactiveashwagandha.com/",
     "icon": "https://icons.duckduckgo.com/ip3/goactiveashwagandha.com.ico",
     "slug": "go-active-ashwagandha",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
@@ -87,6 +89,7 @@
     "timeMonth": 250,
     "timeYear": 278,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-16": 36,
       "2024-03-26": 36,
       "2024-03-08": 57
@@ -97,9 +100,9 @@
     "url": "https://rednessredux.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rednessredux.com.ico",
     "slug": "redness-redux",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
@@ -109,6 +112,7 @@
     "timeMonth": 254,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-16": 35,
       "2024-03-26": 36,
       "2024-03-08": 56
@@ -119,9 +123,9 @@
     "url": "https://bladderpro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bladderpro.com.ico",
     "slug": "bladder-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
@@ -131,6 +135,7 @@
     "timeMonth": 261,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-16": 35,
       "2024-03-26": 35,
       "2024-03-08": 56
@@ -488,17 +493,16 @@
     "slug": "cleanse-drops-kidney",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.45%",
     "time": 419,
     "timeDay": 363,
     "timeWeek": 396,
-    "timeMonth": 383,
+    "timeMonth": 386,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-04-21": 12,
       "2024-04-18": 44,
       "2024-04-17": 24,
       "2024-04-16": 27,
@@ -569,7 +573,8 @@
       "2023-12-11": 20,
       "2023-12-10": 21,
       "2023-12-09": 44,
-      "2023-12-06": 40
+      "2023-12-06": 40,
+      "2023-12-03": 23
     }
   },
   {
@@ -648,18 +653,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.46%",
     "time": 434,
     "timeDay": 389,
     "timeWeek": 399,
-    "timeMonth": 382,
+    "timeMonth": 385,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-04-21": 11,
       "2024-04-18": 43,
       "2024-04-17": 23,
       "2024-04-16": 25,
@@ -729,7 +733,8 @@
       "2023-12-09": 43,
       "2023-12-06": 39,
       "2023-12-03": 22,
-      "2023-11-29": 35
+      "2023-11-29": 35,
+      "2023-11-26": 20
     }
   },
   {
