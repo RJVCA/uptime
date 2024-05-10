@@ -487,11 +487,11 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.46%",
     "time": 417,
     "timeDay": 498,
@@ -499,6 +499,7 @@
     "timeMonth": 384,
     "timeYear": 417,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-05-04": 22,
       "2024-05-03": 19,
       "2024-05-02": 19,
@@ -570,8 +571,7 @@
       "2024-01-01": 26,
       "2023-12-31": 19,
       "2023-12-27": 18,
-      "2023-12-23": 20,
-      "2023-12-21": 23
+      "2023-12-23": 20
     }
   },
   {
@@ -649,11 +649,11 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.47%",
     "time": 432,
     "timeDay": 492,
@@ -661,6 +661,7 @@
     "timeMonth": 396,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2024-05-10": 1,
       "2024-05-04": 21,
       "2024-05-03": 19,
       "2024-05-02": 18,
@@ -732,8 +733,7 @@
       "2023-12-23": 19,
       "2023-12-21": 22,
       "2023-12-18": 24,
-      "2023-12-17": 42,
-      "2023-12-15": 19
+      "2023-12-17": 42
     }
   },
   {
