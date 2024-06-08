@@ -14,7 +14,7 @@
     "timeDay": 647,
     "timeWeek": 670,
     "timeMonth": 607,
-    "timeYear": 541,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2024-05-06": 24,
       "2023-11-13": 18,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dermaced.com.ico",
     "slug": "dermaced-shopify",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -322,7 +322,7 @@
     "timeDay": 90,
     "timeWeek": 218,
     "timeMonth": 313,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2024-04-16": 31,
       "2024-03-26": 31,
@@ -344,7 +344,7 @@
     "timeDay": 133,
     "timeWeek": 227,
     "timeMonth": 314,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2024-04-16": 30,
       "2024-03-26": 30,
@@ -488,18 +488,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.52%",
     "time": 427,
     "timeDay": 145,
-    "timeWeek": 519,
+    "timeWeek": 475,
     "timeMonth": 520,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-06-08": 2,
       "2024-06-03": 42,
       "2024-06-02": 15,
       "2024-05-30": 49,
@@ -568,8 +569,7 @@
       "2024-01-31": 19,
       "2024-01-30": 24,
       "2024-01-27": 45,
-      "2024-01-25": 111,
-      "2024-01-24": 1
+      "2024-01-25": 19
     }
   },
   {
@@ -647,18 +647,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.51%",
     "time": 439,
     "timeDay": 208,
-    "timeWeek": 506,
+    "timeWeek": 453,
     "timeMonth": 506,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2024-06-08": 1,
       "2024-06-03": 41,
       "2024-05-30": 48,
       "2024-05-25": 25,
@@ -727,8 +728,7 @@
       "2024-01-19": 21,
       "2024-01-18": 26,
       "2024-01-14": 16,
-      "2024-01-13": 19,
-      "2024-01-11": 17
+      "2024-01-13": 19
     }
   },
   {
@@ -768,7 +768,7 @@
     "timeDay": 101,
     "timeWeek": 240,
     "timeMonth": 309,
-    "timeYear": 278,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2024-04-16": 24,
       "2024-03-26": 47,
@@ -878,7 +878,7 @@
     "timeDay": 99,
     "timeWeek": 228,
     "timeMonth": 304,
-    "timeYear": 284,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2024-04-16": 21,
       "2024-03-26": 44,
@@ -922,7 +922,7 @@
     "timeDay": 131,
     "timeWeek": 231,
     "timeMonth": 302,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2024-04-16": 20,
       "2024-03-26": 43,
@@ -1142,7 +1142,7 @@
     "timeDay": 99,
     "timeWeek": 221,
     "timeMonth": 369,
-    "timeYear": 283,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2024-04-16": 15,
       "2024-03-26": 38,
