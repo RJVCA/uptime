@@ -489,19 +489,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "98.55%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.52%",
     "time": 427,
-    "timeDay": 387,
-    "timeWeek": 357,
+    "timeDay": 478,
+    "timeWeek": 345,
     "timeMonth": 505,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-06-18": 21,
+      "2024-06-18": 23,
       "2024-06-17": 15,
       "2024-06-14": 43,
       "2024-06-13": 19,
@@ -566,8 +566,7 @@
       "2024-02-19": 45,
       "2024-02-18": 47,
       "2024-02-17": 17,
-      "2024-02-15": 124,
-      "2024-02-12": 30
+      "2024-02-15": 124
     }
   },
   {
@@ -645,19 +644,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.52%",
     "time": 437,
-    "timeDay": 386,
-    "timeWeek": 380,
+    "timeDay": 457,
+    "timeWeek": 372,
     "timeMonth": 480,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-06-18": 20,
+      "2024-06-18": 21,
       "2024-06-14": 42,
       "2024-06-13": 19,
       "2024-06-12": 16,
@@ -723,8 +722,7 @@
       "2024-02-05": 17,
       "2024-02-02": 30,
       "2024-02-01": 21,
-      "2024-01-31": 19,
-      "2024-01-30": 23
+      "2024-01-31": 19
     }
   },
   {
@@ -734,9 +732,9 @@
     "slug": "nerve-factor",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 305,
     "timeDay": 298,
@@ -744,7 +742,6 @@
     "timeMonth": 277,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-06-18": 13,
       "2024-04-16": 24,
       "2024-03-26": 47,
       "2024-03-08": 36
