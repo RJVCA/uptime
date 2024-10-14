@@ -723,9 +723,9 @@
     "slug": "activated-male",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.54%",
     "time": 420,
     "timeDay": 490,
@@ -733,7 +733,7 @@
     "timeMonth": 421,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2024-10-13": 43,
+      "2024-10-13": 28,
       "2024-10-12": 73,
       "2024-10-11": 37,
       "2024-10-10": 20,
@@ -808,7 +808,7 @@
       "2024-05-21": 39,
       "2024-05-19": 19,
       "2024-05-16": 18,
-      "2024-05-15": 39
+      "2024-05-15": 60
     }
   },
   {
@@ -909,18 +909,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oraspark.com.ico",
     "slug": "ora-spark",
     "status": "down",
-    "uptime": "79.32%",
+    "uptime": "79.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.01%",
+    "uptimeYear": "72.00%",
     "time": 271,
     "timeDay": 177,
     "timeWeek": 239,
     "timeMonth": 262,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-10-13": 1407,
+      "2024-10-14": 47,
+      "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
