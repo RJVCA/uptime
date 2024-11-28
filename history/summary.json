@@ -571,10 +571,10 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.52%",
     "time": 422,
@@ -583,6 +583,7 @@
     "timeMonth": 494,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-11-28": 2,
       "2024-11-23": 16,
       "2024-11-20": 51,
       "2024-11-18": 27,
@@ -656,8 +657,7 @@
       "2024-07-13": 19,
       "2024-07-12": 37,
       "2024-07-09": 43,
-      "2024-07-01": 28,
-      "2024-06-30": 23
+      "2024-07-01": 28
     }
   },
   {
@@ -741,18 +741,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 428,
     "timeDay": 532,
     "timeWeek": 510,
     "timeMonth": 499,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2024-11-28": 1,
       "2024-11-23": 15,
       "2024-11-20": 50,
       "2024-11-18": 26,
@@ -828,8 +829,7 @@
       "2024-07-01": 28,
       "2024-06-30": 39,
       "2024-06-28": 23,
-      "2024-06-27": 19,
-      "2024-06-25": 21
+      "2024-06-27": 19
     }
   },
   {
@@ -934,18 +934,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oraspark.com.ico",
     "slug": "ora-spark",
     "status": "down",
-    "uptime": "72.69%",
+    "uptime": "72.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.67%",
+    "uptimeYear": "59.66%",
     "time": 266,
     "timeDay": 295,
     "timeWeek": 275,
     "timeMonth": 269,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-11-28": 50,
+      "2024-11-28": 86,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
