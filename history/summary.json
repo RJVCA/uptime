@@ -307,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ancientpetliver.com.ico",
     "slug": "ancient-pet-liver",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/munomax.com.ico",
     "slug": "muno-max",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -581,10 +581,10 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.49%",
     "time": 426,
@@ -593,6 +593,7 @@
     "timeMonth": 484,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-12-21": 2,
       "2024-12-20": 34,
       "2024-12-18": 29,
       "2024-12-15": 20,
@@ -663,7 +664,7 @@
       "2024-08-07": 21,
       "2024-08-06": 20,
       "2024-08-04": 35,
-      "2024-08-03": 45
+      "2024-08-03": 20
     }
   },
   {
@@ -747,10 +748,10 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.49%",
     "time": 435,
@@ -759,6 +760,7 @@
     "timeMonth": 486,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2024-12-21": 2,
       "2024-12-20": 34,
       "2024-12-18": 29,
       "2024-12-15": 19,
@@ -831,8 +833,7 @@
       "2024-08-03": 45,
       "2024-08-01": 22,
       "2024-07-30": 21,
-      "2024-07-29": 20,
-      "2024-07-28": 16
+      "2024-07-29": 20
     }
   },
   {
@@ -937,18 +938,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oraspark.com.ico",
     "slug": "ora-spark",
     "status": "down",
-    "uptime": "69.71%",
+    "uptime": "69.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.37%",
+    "uptimeYear": "53.28%",
     "time": 265,
     "timeDay": 270,
     "timeWeek": 268,
     "timeMonth": 267,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-12-21": 45,
+      "2024-12-21": 530,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
