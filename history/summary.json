@@ -583,9 +583,9 @@
     "slug": "cleanse-drops-kidney",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.49%",
     "time": 426,
     "timeDay": 444,
@@ -593,7 +593,7 @@
     "timeMonth": 478,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-12-22": 35,
+      "2024-12-22": 23,
       "2024-12-20": 34,
       "2024-12-18": 29,
       "2024-12-15": 20,
@@ -663,7 +663,8 @@
       "2024-08-10": 16,
       "2024-08-07": 21,
       "2024-08-06": 20,
-      "2024-08-04": 35
+      "2024-08-04": 35,
+      "2024-08-03": 20
     }
   },
   {
@@ -749,9 +750,9 @@
     "slug": "activated-male",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.49%",
     "time": 435,
     "timeDay": 496,
@@ -759,7 +760,7 @@
     "timeMonth": 483,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-12-22": 33,
+      "2024-12-22": 22,
       "2024-12-20": 34,
       "2024-12-18": 29,
       "2024-12-15": 19,
@@ -831,7 +832,8 @@
       "2024-08-04": 34,
       "2024-08-03": 45,
       "2024-08-01": 22,
-      "2024-07-30": 21
+      "2024-07-30": 21,
+      "2024-07-29": 20
     }
   },
   {
@@ -936,18 +938,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oraspark.com.ico",
     "slug": "ora-spark",
     "status": "down",
-    "uptime": "69.47%",
+    "uptime": "69.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.83%",
+    "uptimeYear": "52.82%",
     "time": 264,
     "timeDay": 321,
     "timeWeek": 273,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-12-22": 1434,
+      "2024-12-23": 48,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
