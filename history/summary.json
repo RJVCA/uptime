@@ -471,10 +471,10 @@
     "url": "https://munomax.com/",
     "icon": "https://icons.duckduckgo.com/ip3/munomax.com.ico",
     "slug": "muno-max",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 280,
@@ -483,6 +483,7 @@
     "timeMonth": 278,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2025-01-03": 1,
       "2024-11-09": 23,
       "2024-09-05": 17,
       "2024-07-31": 45,
@@ -583,17 +584,16 @@
     "slug": "cleanse-drops-kidney",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.49%",
     "time": 427,
     "timeDay": 432,
-    "timeWeek": 446,
+    "timeWeek": 443,
     "timeMonth": 437,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-01-03": 11,
       "2025-01-02": 37,
       "2025-01-01": 19,
       "2024-12-31": 71,
@@ -661,7 +661,8 @@
       "2024-08-30": 21,
       "2024-08-27": 23,
       "2024-08-25": 25,
-      "2024-08-23": 25
+      "2024-08-23": 25,
+      "2024-08-20": 18
     }
   },
   {
@@ -747,17 +748,16 @@
     "slug": "activated-male",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.47%",
     "time": 435,
     "timeDay": 496,
-    "timeWeek": 443,
+    "timeWeek": 444,
     "timeMonth": 433,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-01-03": 10,
       "2025-01-02": 35,
       "2025-01-01": 18,
       "2024-12-31": 54,
@@ -829,7 +829,8 @@
       "2024-08-17": 30,
       "2024-08-14": 69,
       "2024-08-12": 72,
-      "2024-08-11": 42
+      "2024-08-11": 42,
+      "2024-08-10": 16
     }
   },
   {
