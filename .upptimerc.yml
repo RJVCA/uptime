@@ -59,14 +59,14 @@ sites:
     url: https://nervefactor.com/
   - name: Natal Nourish
     url: https://natalnourish.com/
-  #- name: Total Soothe
-  #  url: https://totalsoothe.com/
+  - name: Total Soothe
+   url: https://totalsoothe.com/
   - name: Ocutonic
     url: https://ocutonic.com/
   - name: Active Olive Leaf
     url: https://activeoliveleaf.com/
-  - name: OraSpark
-    url: https://oraspark.com/
+  # - name: OraSpark
+  #   url: https://oraspark.com/
   - name: Active Polygala
     url: https://activepolygala.com/
   - name: Active Rhodiola
