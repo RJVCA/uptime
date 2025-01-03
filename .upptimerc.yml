@@ -60,7 +60,7 @@ sites:
   - name: Natal Nourish
     url: https://natalnourish.com/
   - name: Total Soothe
-   url: https://totalsoothe.com/
+    url: https://totalsoothe.com/
   - name: Ocutonic
     url: https://ocutonic.com/
   - name: Active Olive Leaf
