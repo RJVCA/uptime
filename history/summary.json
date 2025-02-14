@@ -161,9 +161,9 @@
     "url": "https://bladderpro.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bladderpro.com.ico",
     "slug": "bladder-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.38%",
@@ -173,6 +173,7 @@
     "timeMonth": 285,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2025-02-12": 34,
       "2025-02-11": 23,
       "2025-02-10": 26,
@@ -196,9 +197,9 @@
     "url": "https://bloatx.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bloatx.com.ico",
     "slug": "bloat-x",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.93%",
@@ -208,6 +209,7 @@
     "timeMonth": 305,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2025-02-12": 33,
       "2025-02-11": 22,
       "2025-02-10": 25,
@@ -704,17 +706,16 @@
     "slug": "cleanse-drops-kidney",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.46%",
     "time": 426,
-    "timeDay": 474,
+    "timeDay": 472,
     "timeWeek": 413,
     "timeMonth": 418,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-02-14": 12,
       "2025-02-12": 26,
       "2025-02-11": 61,
       "2025-02-10": 18,
@@ -779,7 +780,8 @@
       "2024-10-27": 24,
       "2024-10-26": 31,
       "2024-10-23": 28,
-      "2024-10-18": 17
+      "2024-10-18": 17,
+      "2024-10-17": 27
     }
   },
   {
@@ -880,17 +882,16 @@
     "slug": "activated-male",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "97.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.46%",
     "time": 432,
-    "timeDay": 457,
+    "timeDay": 426,
     "timeWeek": 416,
     "timeMonth": 417,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-02-14": 11,
       "2025-02-12": 24,
       "2025-02-11": 45,
       "2025-02-10": 16,
@@ -957,7 +958,8 @@
       "2024-10-13": 28,
       "2024-10-12": 73,
       "2024-10-11": 37,
-      "2024-10-10": 20
+      "2024-10-10": 20,
+      "2024-10-06": 18
     }
   },
   {
