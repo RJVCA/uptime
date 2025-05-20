@@ -483,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/deeptherapycream.com.ico",
     "slug": "deep-therapy-cream",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
@@ -1146,19 +1146,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "63.18%",
-    "uptimeWeek": "69.72%",
-    "uptimeMonth": "91.17%",
+    "uptimeDay": "63.02%",
+    "uptimeWeek": "69.70%",
+    "uptimeMonth": "91.16%",
     "uptimeYear": "99.22%",
-    "time": 438,
+    "time": 439,
     "timeDay": 413,
     "timeWeek": 439,
     "timeMonth": 421,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-05-20": 421,
+      "2025-05-20": 423,
       "2025-05-19": 342,
       "2025-05-18": 677,
       "2025-05-17": 368,
@@ -1186,8 +1186,7 @@
       "2025-04-18": 21,
       "2025-04-17": 106,
       "2025-04-14": 62,
-      "2025-04-13": 15,
-      "2025-04-10": 18
+      "2025-04-13": 15
     }
   },
   {
@@ -1335,11 +1334,11 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "63.49%",
-    "uptimeWeek": "70.31%",
-    "uptimeMonth": "91.29%",
+    "uptimeDay": "63.37%",
+    "uptimeWeek": "70.29%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "99.22%",
     "time": 437,
     "timeDay": 406,
@@ -1347,7 +1346,7 @@
     "timeMonth": 413,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-05-20": 419,
+      "2025-05-20": 421,
       "2025-05-19": 336,
       "2025-05-18": 667,
       "2025-05-17": 390,
@@ -1378,8 +1377,7 @@
       "2025-04-10": 18,
       "2025-04-08": 22,
       "2025-04-07": 23,
-      "2025-04-05": 28,
-      "2025-04-04": 25
+      "2025-04-05": 28
     }
   },
   {
