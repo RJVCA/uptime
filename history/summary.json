@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rejuvica.com.ico",
     "slug": "rejuvica-shopify",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1146,18 +1146,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "73.47%",
-    "uptimeWeek": "65.76%",
-    "uptimeMonth": "89.44%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "78.51%",
+    "uptimeWeek": "67.06%",
+    "uptimeMonth": "89.56%",
+    "uptimeYear": "99.13%",
     "time": 437,
     "timeDay": 378,
     "timeWeek": 411,
     "timeMonth": 417,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2025-05-28": 2,
       "2025-05-27": 436,
       "2025-05-26": 635,
       "2025-05-25": 438,
@@ -1167,7 +1168,7 @@
       "2025-05-21": 436,
       "2025-05-20": 737,
       "2025-05-19": 342,
-      "2025-05-18": 95
+      "2025-05-18": 44
     }
   },
   {
@@ -1315,18 +1316,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "73.89%",
-    "uptimeWeek": "66.57%",
-    "uptimeMonth": "89.26%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "78.91%",
+    "uptimeWeek": "67.87%",
+    "uptimeMonth": "89.53%",
+    "uptimeYear": "99.13%",
     "time": 435,
     "timeDay": 376,
     "timeWeek": 407,
     "timeMonth": 412,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2025-05-28": 2,
       "2025-05-27": 433,
       "2025-05-26": 626,
       "2025-05-25": 429,
@@ -1336,7 +1338,7 @@
       "2025-05-21": 418,
       "2025-05-20": 732,
       "2025-05-19": 336,
-      "2025-05-18": 266
+      "2025-05-18": 147
     }
   },
   {
