@@ -358,8 +358,7 @@
       "2025-01-23": 27,
       "2024-12-13": 28,
       "2024-11-09": 28,
-      "2024-09-05": 22,
-      "2024-06-06": 18
+      "2024-09-05": 22
     }
   },
   {
@@ -1148,13 +1147,13 @@
     "slug": "cleanse-drops-kidney",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "53.43%",
-    "uptimeWeek": "61.94%",
+    "uptimeDay": "59.38%",
+    "uptimeWeek": "62.66%",
     "uptimeMonth": "88.88%",
     "uptimeYear": "99.07%",
     "time": 436,
     "timeDay": 385,
-    "timeWeek": 411,
+    "timeWeek": 409,
     "timeMonth": 418,
     "timeYear": 431,
     "dailyMinutesDown": {
@@ -1318,13 +1317,13 @@
     "slug": "activated-male",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "53.81%",
-    "uptimeWeek": "62.56%",
+    "uptimeDay": "59.75%",
+    "uptimeWeek": "63.27%",
     "uptimeMonth": "89.02%",
     "uptimeYear": "99.08%",
     "time": 433,
     "timeDay": 387,
-    "timeWeek": 407,
+    "timeWeek": 406,
     "timeMonth": 413,
     "timeYear": 428,
     "dailyMinutesDown": {
