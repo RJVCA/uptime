@@ -815,7 +815,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hsnsystem.com.ico",
     "slug": "hsn-system",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1144,18 +1144,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "62.60%",
-    "uptimeMonth": "89.42%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "59.88%",
+    "uptimeWeek": "63.33%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "99.13%",
     "time": 437,
     "timeDay": 408,
     "timeWeek": 430,
     "timeMonth": 428,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2025-06-17": 2,
       "2025-06-16": 649,
       "2025-06-15": 677,
       "2025-06-14": 521,
@@ -1164,7 +1165,7 @@
       "2025-06-11": 408,
       "2025-06-10": 442,
       "2025-06-09": 594,
-      "2025-06-08": 217
+      "2025-06-08": 149
     }
   },
   {
@@ -1312,18 +1313,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "55.55%",
-    "uptimeWeek": "63.16%",
-    "uptimeMonth": "89.56%",
+    "uptimeDay": "60.47%",
+    "uptimeWeek": "63.89%",
+    "uptimeMonth": "89.60%",
     "uptimeYear": "99.13%",
     "time": 433,
     "timeDay": 394,
-    "timeWeek": 433,
+    "timeWeek": 432,
     "timeMonth": 420,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2025-06-17": 2,
       "2025-06-16": 639,
       "2025-06-15": 668,
       "2025-06-14": 515,
@@ -1332,7 +1334,7 @@
       "2025-06-11": 400,
       "2025-06-10": 438,
       "2025-06-09": 590,
-      "2025-06-08": 215
+      "2025-06-08": 199
     }
   },
   {
