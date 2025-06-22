@@ -481,7 +481,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/deeptherapycream.com.ico",
     "slug": "deep-therapy-cream",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1144,19 +1144,19 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "73.66%",
-    "uptimeWeek": "64.51%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "99.13%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "73.51%",
+    "uptimeWeek": "64.87%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "99.14%",
     "time": 436,
     "timeDay": 433,
     "timeWeek": 401,
     "timeMonth": 422,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2025-06-22": 226,
+      "2025-06-22": 228,
       "2025-06-21": 358,
       "2025-06-20": 725,
       "2025-06-19": 282,
@@ -1165,7 +1165,7 @@
       "2025-06-16": 649,
       "2025-06-15": 677,
       "2025-06-14": 521,
-      "2025-06-13": 166
+      "2025-06-13": 132
     }
   },
   {
@@ -1313,11 +1313,11 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "75.08%",
-    "uptimeWeek": "65.14%",
-    "uptimeMonth": "89.63%",
+    "uptimeDay": "74.95%",
+    "uptimeWeek": "65.50%",
+    "uptimeMonth": "89.73%",
     "uptimeYear": "99.14%",
     "time": 430,
     "timeDay": 391,
@@ -1325,7 +1325,7 @@
     "timeMonth": 410,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-06-22": 208,
+      "2025-06-22": 210,
       "2025-06-21": 351,
       "2025-06-20": 718,
       "2025-06-19": 277,
@@ -1334,7 +1334,7 @@
       "2025-06-16": 639,
       "2025-06-15": 668,
       "2025-06-14": 515,
-      "2025-06-13": 209
+      "2025-06-13": 162
     }
   },
   {
