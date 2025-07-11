@@ -1192,11 +1192,11 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "70.61%",
-    "uptimeWeek": "68.68%",
-    "uptimeMonth": "90.35%",
+    "uptimeDay": "70.46%",
+    "uptimeWeek": "68.84%",
+    "uptimeMonth": "90.41%",
     "uptimeYear": "99.20%",
     "time": 432,
     "timeDay": 461,
@@ -1204,7 +1204,7 @@
     "timeMonth": 428,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-07-11": 118,
+      "2025-07-11": 120,
       "2025-07-10": 420,
       "2025-07-09": 490,
       "2025-07-08": 641,
@@ -1213,7 +1213,7 @@
       "2025-07-05": 453,
       "2025-07-04": 510,
       "2025-07-03": 475,
-      "2025-07-02": 300
+      "2025-07-02": 271
     }
   },
   {
@@ -1368,12 +1368,12 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "71.15%",
-    "uptimeWeek": "69.09%",
+    "uptimeWeek": "69.26%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "99.15%",
     "time": 434,
     "timeDay": 465,
-    "timeWeek": 560,
+    "timeWeek": 561,
     "timeMonth": 450,
     "timeYear": 438,
     "dailyMinutesDown": {
