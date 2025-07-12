@@ -906,7 +906,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cardiovance.com.ico",
     "slug": "cardio-vance",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.92%",
@@ -1192,11 +1192,11 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "64.98%",
-    "uptimeWeek": "67.20%",
-    "uptimeMonth": "90.75%",
+    "uptimeDay": "67.25%",
+    "uptimeWeek": "67.31%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "99.23%",
     "time": 433,
     "timeDay": 475,
@@ -1204,7 +1204,7 @@
     "timeMonth": 429,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-07-12": 77,
+      "2025-07-12": 79,
       "2025-07-11": 425,
       "2025-07-10": 420,
       "2025-07-09": 490,
@@ -1213,7 +1213,7 @@
       "2025-07-06": 542,
       "2025-07-05": 453,
       "2025-07-04": 510,
-      "2025-07-03": 211
+      "2025-07-03": 195
     }
   },
   {
@@ -1365,19 +1365,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "67.70%",
-    "uptimeWeek": "67.93%",
-    "uptimeMonth": "90.00%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "69.97%",
+    "uptimeWeek": "68.04%",
+    "uptimeMonth": "90.09%",
     "uptimeYear": "99.17%",
     "time": 435,
     "timeDay": 484,
-    "timeWeek": 564,
+    "timeWeek": 563,
     "timeMonth": 452,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-07-12": 77,
+      "2025-07-12": 79,
       "2025-07-11": 390,
       "2025-07-10": 414,
       "2025-07-09": 479,
@@ -1387,7 +1387,7 @@
       "2025-07-05": 443,
       "2025-07-04": 505,
       "2025-07-03": 452,
-      "2025-07-02": 165
+      "2025-07-02": 127
     }
   },
   {
