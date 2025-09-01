@@ -969,7 +969,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hsnsystem.com.ico",
     "slug": "hsn-system",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "97.26%",
     "uptimeWeek": "96.02%",
     "uptimeMonth": "98.69%",
@@ -1356,11 +1356,11 @@
     "url": "http://cleansedropskidney.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cleansedropskidney.com.ico",
     "slug": "cleanse-drops-kidney",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.24%",
     "time": 434,
     "timeDay": 357,
@@ -1368,7 +1368,7 @@
     "timeMonth": 429,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-09-01": 37,
+      "2025-09-01": 39,
       "2025-08-30": 19,
       "2025-08-29": 53,
       "2025-08-28": 22,
@@ -1394,7 +1394,7 @@
       "2025-07-11": 425,
       "2025-07-10": 420,
       "2025-07-09": 490,
-      "2025-07-08": 154
+      "2025-07-08": 122
     }
   },
   {
@@ -1572,19 +1572,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "99.20%",
-    "time": 448,
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "99.23%",
+    "time": 449,
     "timeDay": 392,
     "timeWeek": 427,
     "timeMonth": 425,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-09-01": 35,
+      "2025-09-01": 37,
       "2025-08-30": 19,
       "2025-08-29": 51,
       "2025-08-28": 22,
@@ -1611,7 +1611,7 @@
       "2025-07-11": 390,
       "2025-07-10": 414,
       "2025-07-09": 479,
-      "2025-07-08": 433
+      "2025-07-08": 301
     }
   },
   {
