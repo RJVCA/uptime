@@ -1610,18 +1610,19 @@
     "url": "http://activatedmale.com/",
     "icon": "https://icons.duckduckgo.com/ip3/activatedmale.com.ico",
     "slug": "activated-male",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.30%",
     "time": 450,
     "timeDay": 503,
     "timeWeek": 500,
     "timeMonth": 442,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2025-11-08": 2,
       "2025-11-07": 17,
       "2025-11-05": 42,
       "2025-11-04": 15,
@@ -1663,7 +1664,7 @@
       "2025-07-13": 650,
       "2025-07-12": 427,
       "2025-07-11": 390,
-      "2025-07-10": 414
+      "2025-07-10": 363
     }
   },
   {
